@@ -1,0 +1,372 @@
+.top {background-color: lightgrey;float:left;width: 100%;height: 96px;}
+.is{float:left;width:50%;}
+.is img {
+     float: left;
+    width: 182px;
+    margin-left: 110px;
+    margin-top: 7px;
+}
+}
+.list {float:left;width:50%;}
+.list li {
+    float: left;
+    display: block;
+    margin-left: 54px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+.grey {background-image:url(PIC/banner.jpg);float:left;width:100%;height:600px;}
+.fire img {
+    float: left;
+    margin-left: 346px;
+    margin-top: 66px;
+}
+.hot h1 {
+    float: left;
+    color: yellow;
+    font-size: 116px;
+    margin-left: -171px;
+    margin-top: 109px;
+}
+.pizza h1{
+    float: left;
+    font-size: 121px;
+    color: white;
+    margin-left: 108px;
+    margin-top: 106px;
+}
+.with h1 {
+    float: left;
+    font-size: 96px;
+    color: white;
+    margin-top: 254px;
+    margin-left: -643px;
+}
+.seafood h2 {
+    float: left;
+    margin-top: 274px;
+    font-size: 79px;
+    color: white;
+    margin-left: -400px;
+}
+.online p {
+    float: left;
+    margin-top: 405px;
+    margin-left: -512px;
+    background-color: red;
+    font-size: 43px;
+    color: white;
+    border-radius: 14px;
+    width: 254px;
+    text-align: center;
+}
+
+.dishes {float:left;width:100%;}
+.burger {float:left;width:25%;}
+.burger img {
+    float: left;
+    margin-left: 76px;
+    margin-top: 60px;
+}
+.sandwich {float:left;width:25%;}
+.sandwich img {
+    float: left;
+    margin-left: 163px;
+    margin-top: 58px;
+}
+.choco {float:left;width:25%;}
+.choco img {
+    float: left;
+    margin-left: 245px;
+    margin-top: 60px;
+}
+
+.content {float:left;width:100%;}
+.hotburger {float:left;width:30%;}
+.hotburger h1 {
+    float: left;
+    margin-left: 118px;
+    margin-top: 11px;
+}
+.vegsandwich {float:left;width:30%;}
+.vegsandwich h1 {
+    float: left;
+    margin-left: 146px;
+    margin-top: 11px;
+}
+.chococake {float:left;width:30%;}
+.chococake h1 {
+    float: left;
+    margin-left: 166px;
+    margin-top: 11px;
+}
+
+.combo {float:left;width:100%;}
+.hotburgercombo {float:left;width:30%;}
+.hotburgercombo p {
+    float: left;
+    font-size: 19px;
+    margin-left: 130px;
+    margin-top: -11px;
+}
+.vegsandwichcombo {float:left;width:30%;}
+.vegsandwichcombo p {
+    float: left;
+	font-size:19px;
+    margin-left: 165px;
+    margin-top: -11px;
+}
+.chococakecombo {float:left;width:30%;}
+.chococakecombo p {
+    float: left;
+	font-size:19px;
+    margin-left: 180px;
+    margin-top: -11px;
+}
+.menu{float:left;width:100%}
+.menu h1 {
+    float: left;
+    text-align: center;
+    margin-left: 500px;
+    color: red;
+    font-size: 45px;
+	margin-top: 16px;
+}
+
+.cream {float:left;width:100%;}
+.oily {background-image:url(PIC/pizza.jpg);float: left;width: 24%;height: 332px;margin-left: 100px;}
+.oily h1 {
+    float: left;
+    background-color: cadetblue;
+    width: 124px;
+    text-align: center;
+    font-size: 45px;
+    margin-left: 94px;
+    margin-top: 269px;
+}
+.samosa {background-image:url(PIC/samosa.jpg);float:left;width:24%;height: 332px;margin-left: 100px;}
+.samosa h1 {
+    float: left;
+    margin-left: 113px;
+    font-size: 48px;
+    background-color: cadetblue;
+    margin-top: 267px;
+}
+.noodle {background-image:url(PIC/noodle.jpg);float:left;width:24%;height: 332px;margin-left: 100px;}
+.noodle h1 {
+    float: left;
+    margin-left: 122px;
+    font-size: 48px;
+    background-color: cadetblue;
+    margin-top: 267px;
+}
+
+.aboutcream {float:left;width:100%;}
+.aboutoily { float:left;width:30%;}
+.aboutoily h1 {
+    float: left;
+    margin-left: 191px;
+}
+.aboutsamosa  { float:left;width:30%;}
+.aboutsamosa h1 {
+    float: left;
+    margin-left: 200px;
+}
+.aboutnoodle  { float:left;width:30%;}
+.aboutnoodle h1 {
+    float: left;
+    margin-left: 233px;
+}
+
+.bread{background-image:url(PIC/sandwich1.jpg);float:left;width:100%;height:530px;}
+.twohot { float:left;width:30%;}
+.twohot h1 {
+    float: left;
+    margin-left: 370px;
+    font-size: 75px;
+    color: yellow;
+    margin-top: 118px;
+}
+.smile { float:left;width:20%;}
+.smile img {
+    float: left;
+    margin-left:510px;
+    margin-top: 109px;
+}
+.days { float:left;width:50%;}
+.days  h1 {
+    float: left;
+    font-size: 75px;
+    color: red;
+    margin-top: 119px;
+    margin-left: -107px;
+}
+.only {background-color: #cec8c8;float: left;height: 120px;margin-left: 480px;width: 485px;margin-top: -43px;}
+.only h1 {
+    float: left;
+    font-size: 62px;
+    margin-top: 17px;
+    margin-left: 24px;
+}
+.only h2 {
+    float: left;
+    font-size: 45px;
+    margin-top: 22px;
+}
+.only h3 {
+    float: left;
+    font-size: 69px;
+    margin-top: 1px;
+    margin-left: 21px;
+}
+.only h4 {
+    float: left;
+    margin-left: 191px;
+    font-size: 30px;
+    color: red;
+    margin-top: -63px;
+}
+.redbox{float:left;width:100%;}
+.redbox h1 {
+    float: left;
+    margin-left: 451px;
+    margin-top: 62px;
+    background-color: red;
+    width: 330px;
+    font-size: 53px;
+    text-align: center;
+    border-radius: 18px;
+    color: white;
+}
+.art {float:left;width:100%;}
+.art1{float:left;width:30%;}
+.art1 img {
+    float: left;
+    margin-left: 135px;
+    margin-top: 66px;
+}
+.art2{float:left;width:30%;}
+.art2 img {
+    float: left;
+    margin-left: 188px;
+    margin-top: 66px;
+}
+.art3{float:left;width:30%;}
+.art3 img {
+    float: left;
+    margin-left: 221px;
+    margin-top: 66px;
+}
+.chefs {float:left;width:100%;}
+.chefs1{float:left;width:30%;}
+.chefs1 h1 {
+    float: left;
+    margin-left: 100px;
+    font-size: 34px;
+}
+.chefs2{float:left;width:30%;}
+.chefs2 h1 {
+    float: left;
+    margin-left: 154px;
+    font-size: 34px;
+}
+.chefs3{float:left;width:30%;}
+.chefs3 h1 {
+    float: left;
+    margin-left: 110px;
+    font-size: 34px;
+}
+.quick{float:left;width:100%;}
+.quick1{float:left;width:30%;}
+.quick1 p {
+    float: left;
+    margin-left: 73px;
+    margin-top: -11px;
+    font-size: 22px;
+}
+.quick2{float:left;width:30%;}
+.quick2  p {
+    float: left;
+    margin-left: 101px;
+    margin-top: -11px;
+    font-size: 22px;
+    text-align: center;
+}
+.quick3{float:left;width:30%;}
+.quick3 p {
+    float: left;
+    margin-left: 122px;
+    margin-top: -11px;
+    font-size: 22px;
+}
+.chilly0{float:left;width:100%;}
+.chilly1{float:left;width:40%;}
+.chilly1 img {
+    float: left;
+    width: 100%;
+	height: 492px;
+}
+.chilly2{float:left;width:30%;}
+.chilly2 img {
+    float: left;
+    width: 100%;
+	height: 492px;
+}
+.chilly3{float:left;width:30%;}
+.chilly3 img {
+    float: left;
+    width: 100%;
+	height: 492px;
+}
+.map{float:left;width:100%;}
+.black {background-color:black;float:left;width:100%;height:350px;}
+.bike {float:left;width:20%}
+.bike img {
+    float: left;
+    margin-top: 101px;
+    margin-left: 173px;
+}
+.location{float:left;width:45%}
+.location img {
+    float: left;
+    margin-left: 318px;
+    margin-top: 56px;
+}
+.mail{float:left;width:15%}
+.mail img {
+    float: left;
+    margin-top: 156px;
+    margin-left: -273px;
+}
+.phone{float:left;width:15%}
+.phone img {
+    float: left;
+    margin-top: 260px;
+    margin-left: -466px;
+}
+.idea {
+    color: white;
+    float: left;
+    margin-left: 685px;
+    margin-top: -239px;
+}
+.email {
+    float: left;
+    color: white;
+    margin-left: 687px;
+    margin-top: -159px;
+}
+.call {
+    color: white;
+    float: left;
+    margin-left: 685px;
+    margin-top: -87px;
+}
+.end {float:left;width:100%}
+.end p {
+    float: left;
+    font-size: 32px;
+    margin-left: 106px;
+    margin-top: 37px;
+}
+
